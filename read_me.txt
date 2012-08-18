@@ -3,7 +3,7 @@ TEAM 1
 
 Adil Ali Chohan 03234010850
 Muneeb Sajid Janjua 03216135089
-Maria Shoaib 03224893361
+Maria Shoaib
 ABSTRACT:
 It is very common for university students to forget assignment,
  quiz and project deadlines. Sometimes they do not 
