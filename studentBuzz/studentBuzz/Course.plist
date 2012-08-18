@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Student</key>
+	<dict>
+		<key>RollNo</key>
+		<string>l080333</string>
+		<key>Semesters</key>
+		<array>
+			<array>
+				<string>Programming 1</string>
+				<string>Circuit1</string>
+				<string>Calculus1</string>
+				<string>Communication Skills</string>
+				<string>Islamic Studies</string>
+			</array>
+			<array>
+				<string>Programming 2</string>
+				<string>Circuit 2</string>
+				<string>Calculus 2</string>
+				<string>Pakistan Studies</string>
+				<string>Computer Logic Design</string>
+			</array>
+			<array>
+				<string>Data Structures</string>
+				<string>Electronics1</string>
+				<string>Linear Algebra</string>
+				<string>Computer Architecture</string>
+				<string>Technical Report Writing</string>
+			</array>
+			<array>
+				<string>Calculus 2</string>
+				<string>Electromagnetic Theory</string>
+				<string>Wave Propagation</string>
+				<string>Telecom Law</string>
+				<string>Electronics 2</string>
+			</array>
+			<array>
+				<string>Digital communication</string>
+				<string>Analog Communication</string>
+				<string>Signals and Systems</string>
+				<string>Java</string>
+				<string>Web Development</string>
+			</array>
+			<array>
+				<string>Html</string>
+				<string>C++</string>
+				<string>OOP</string>
+				<string>Microprocessor Programming</string>
+				<string>Advanced Computer Architecture</string>
+			</array>
+			<array>
+				<string>Objective C</string>
+				<string>Css</string>
+				<string>Javascript</string>
+				<string>Sql</string>
+				<string>System Programming</string>
+			</array>
+			<array>
+				<string>Microwave Engineering</string>
+				<string>FYP II</string>
+				<string>Databases</string>
+				<string>Embedded Systems</string>
+				<string>Telecom Law</string>
+			</array>
+		</array>
+	</dict>
+	<key>Student - 2</key>
+	<dict>
+		<key>RollNo</key>
+		<string>l080323</string>
+		<key>Semesters</key>
+		<array>
+			<array>
+				<string>Programming 1</string>
+				<string>Circuit1</string>
+				<string>Calculus1</string>
+				<string>Communication Skills</string>
+				<string>Islamic Studies</string>
+			</array>
+			<array>
+				<string>Programming 2</string>
+				<string>Circuit 2</string>
+				<string>Calculus 2</string>
+				<string>Pakistan Studies</string>
+				<string>Computer Logic Design</string>
+			</array>
+			<array>
+				<string>Data Structures</string>
+				<string>Electronics1</string>
+				<string>Linear Algebra</string>
+				<string>Computer Architecture</string>
+				<string>Technical Report Writing</string>
+			</array>
+			<array>
+				<string>Calculus 2</string>
+				<string>Electromagnetic Theory</string>
+				<string>Wave Propagation</string>
+				<string>Telecom Law</string>
+				<string>Electronics 2</string>
+			</array>
+			<array>
+				<string>Digital communication</string>
+				<string>Analog Communication</string>
+				<string>Signals and Systems</string>
+				<string>Java</string>
+				<string>Web Development</string>
+			</array>
+			<array>
+				<string>Html</string>
+				<string>C++</string>
+				<string>OOP</string>
+				<string>Microprocessor Programming</string>
+				<string>Advanced Computer Architecture</string>
+			</array>
+			<array>
+				<string>Objective C</string>
+				<string>Css</string>
+				<string>Javascript</string>
+				<string>Sql</string>
+				<string>System Programming</string>
+			</array>
+			<array>
+				<string>Microwave Engineering</string>
+				<string>FYP II</string>
+				<string>Databases</string>
+				<string>Embedded Systems</string>
+				<string>Telecom Law</string>
+			</array>
+		</array>
+	</dict>
+	<key>Student - 2 - 2</key>
+	<dict>
+		<key>RollNo</key>
+		<string>l080605</string>
+		<key>Semesters</key>
+		<array>
+			<array>
+				<string>Programming 1</string>
+				<string>Circuit1</string>
+				<string>Calculus1</string>
+				<string>Communication Skills</string>
+				<string>Islamic Studies</string>
+			</array>
+			<array>
+				<string>Programming 2</string>
+				<string>Circuit 2</string>
+				<string>Calculus 2</string>
+				<string>Pakistan Studies</string>
+				<string>Computer Logic Design</string>
+			</array>
+			<array>
+				<string>Data Structures</string>
+				<string>Electronics1</string>
+				<string>Linear Algebra</string>
+				<string>Computer Architecture</string>
+				<string>Technical Report Writing</string>
+			</array>
+			<array>
+				<string>Calculus 2</string>
+				<string>Electromagnetic Theory</string>
+				<string>Wave Propagation</string>
+				<string>Telecom Law</string>
+				<string>Electronics 2</string>
+			</array>
+			<array>
+				<string>Digital communication</string>
+				<string>Analog Communication</string>
+				<string>Signals and Systems</string>
+				<string>Java</string>
+				<string>Web Development</string>
+			</array>
+			<array>
+				<string>Html</string>
+				<string>C++</string>
+				<string>OOP</string>
+				<string>Microprocessor Programming</string>
+				<string>Advanced Computer Architecture</string>
+			</array>
+			<array>
+				<string>Objective C</string>
+				<string>Css</string>
+				<string>Javascript</string>
+				<string>Sql</string>
+				<string>System Programming</string>
+			</array>
+			<array>
+				<string>Microwave Engineering</string>
+				<string>FYP II</string>
+				<string>Databases</string>
+				<string>Embedded Systems</string>
+				<string>Telecom Law</string>
+			</array>
+		</array>
+	</dict>
+</dict>
+</plist>

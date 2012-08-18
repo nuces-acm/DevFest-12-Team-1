@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Event -1</key>
+	<dict>
+		<key>Name</key>
+		<string>Geek Week</string>
+		<key>Organizer</key>
+		<string>ACM</string>
+		<key>Date</key>
+		<string>30th March, 2012</string>
+		<key>Venue</key>
+		<string>Library</string>
+		<key>Description</key>
+		<string>some description will go here</string>
+	</dict>
+	<key>Event - 2</key>
+	<dict>
+		<key>Name</key>
+		<string>Softec</string>
+		<key>Organizer</key>
+		<string>FAST</string>
+		<key>Date</key>
+		<string>14th March, 2012</string>
+		<key>Venue</key>
+		<string>FAST-NU Lahore</string>
+		<key>Description</key>
+		<string>some description will go here</string>
+	</dict>
+	<key>Event - 3</key>
+	<dict>
+		<key>Name</key>
+		<string>Geek Week</string>
+		<key>Organizer</key>
+		<string>ACM</string>
+		<key>Date</key>
+		<string>30th March, 2012</string>
+		<key>Venue</key>
+		<string>Library</string>
+		<key>Description</key>
+		<string>some description will go here</string>
+	</dict>
+	<key>Event - 4</key>
+	<dict>
+		<key>Name</key>
+		<string>Geek Week</string>
+		<key>Organizer</key>
+		<string>ACM</string>
+		<key>Date</key>
+		<string>30th March, 2012</string>
+		<key>Venue</key>
+		<string>Library</string>
+		<key>Description</key>
+		<string>some description will go here</string>
+	</dict>
+	<key>Event - 5</key>
+	<dict>
+		<key>Name</key>
+		<string>Geek Week</string>
+		<key>Organizer</key>
+		<string>ACM</string>
+		<key>Date</key>
+		<string>30th March, 2012</string>
+		<key>Venue</key>
+		<string>Library</string>
+		<key>Description</key>
+		<string>some description will go here</string>
+	</dict>
+</dict>
+</plist>
